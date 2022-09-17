@@ -30,7 +30,9 @@ If you find our work useful in your research, please consider citing:
 We provide an environment.yml file containing a list of the necessary dependencies.
 Follow the following steps to reproduce the same environment in your machine:
 1) Use the terminal or an Anaconda Prompt and type
-  conda env create -f environment.yml
+```bash
+conda env create -f environment.yml
+```
 Use the terminal or an Anaconda Prompt for the following steps:
 ### Usage
 ### License
