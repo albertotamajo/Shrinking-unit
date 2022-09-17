@@ -6,6 +6,14 @@ Created by <a href="https://albertotamajo.github.io/" target="_blank">Alberto Ta
 </p>
 
 ### Introduction
+### Citation
+If you find our work useful in your research, please consider citing:
+
+	@article{tamajo2022shrinkingunit,
+	  title={Shrinking unit: a graph convolution-based unit for CNN-like 3D point cloud feature extractors},
+	  author={Tamajo, Alberto and Plaß, Bastian and Klauer, Thomas},
+	  year={2022}
+	}
 ### Installation
 ### Usage
 ### License
