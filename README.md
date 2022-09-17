@@ -15,7 +15,7 @@ success of Convolutional Neural Network (CNN)s in image feature detection, it se
 CNNs multiple-feature detection and pooling operations. For this reason, we propose a graph convolution-based unit, dubbed Shrinking unit, that can be stacked vertically and horizontally for the design of CNN-like 3D point cloud feature extractors. Given that self, local and global correlations between points in a point cloud convey crucial spatial geometric information, we also leverage them during the feature extraction process. We evaluated our proposal by designing a feature extractor model for the ModelNet-10 benchmark dataset and achieved 90.64% classification accuracy, demonstrating that our innovative idea can potentially become state-of-the-art with further research.
 </p>
 <p align="justify">
-In this repository, we release the implementation code for the Shrinking unit as well as the training code for our best architecture that achieved 90.64% classification accuracy.
+In this repository, we release the implementation code for the Shrinking unit as well as the training code for our best architecture, dubbed ShrinkingNet, that achieved 90.64% classification accuracy on the ModelNet-10 benchmark dataset.
 </p>
 ### Citation
 If you find our work useful in your research, please consider citing:
