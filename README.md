@@ -3,7 +3,7 @@ Created by <a href="https://albertotamajo.github.io/" target="_blank">Alberto Ta
 
 <p align="center">
   <img src="https://github.com/albertotamajo/Shrinking-unit/blob/main/doc/ShrinkingUnitIllustrated.png", width="40%", height="40%"/>
-  <img src="https://github.com/albertotamajo/Shrinking-unit/blob/main/doc/ShrinkingNet.png", width="40%", height="40%"/>
+  <img src="https://github.com/albertotamajo/Shrinking-unit/blob/main/doc/ShrinkingNet.png", width="50%", height="50%"/>
 </p>
 
 ### Introduction
