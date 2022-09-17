@@ -17,6 +17,7 @@ CNNs multiple-feature detection and pooling operations. For this reason, we prop
 <p align="justify">
 In this repository, we release the implementation code for the Shrinking unit as well as the training code for our best architecture, dubbed ShrinkingNet, that achieved 90.64% classification accuracy on the ModelNet-10 benchmark dataset.
 </p>
+
 ### Citation
 If you find our work useful in your research, please consider citing:
 
