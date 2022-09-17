@@ -33,6 +33,14 @@ Follow the following steps to reproduce the same environment in your machine:
 ```bash
 conda env create -f environment.yml
 ```
+2) Activate the new environment: conda activate myenv
+```bash
+conda activate shrinkingunit
+```
+3) Verify that the new environment was installed correctly
+```bash
+conda list env
+```
 Use the terminal or an Anaconda Prompt for the following steps:
 ### Usage
 ### License
