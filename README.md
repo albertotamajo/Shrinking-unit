@@ -2,7 +2,7 @@
 Created by <a href="https://albertotamajo.github.io/" target="_blank">Alberto Tamajo</a>, <a href="https://i3mainz.hs-mainz.de/team/bastianplass/" target="_blank">Bastian Plaß</a> and <a href="https://i3mainz.hs-mainz.de/team/thomasklauer/" target="_blank">Thomas Klauer</a>.
 
 <p align="center">
-  <img src="https://github.com/albertotamajo/Shrinking-unit/blob/main/doc/ShrinkingUnitIllustrated.pn"/>
+  <img src="https://github.com/albertotamajo/Shrinking-unit/blob/main/doc/ShrinkingUnitIllustrated.png"/>
 </p>
 
 ### Introduction
