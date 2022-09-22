@@ -43,5 +43,10 @@ conda activate shrinkingunit
 conda list env
 ```
 ### Usage
+```python
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
 ### License
 Our code is released under MIT License (see LICENSE file for details).
