@@ -8,7 +8,7 @@ Created by <a href="https://albertotamajo.github.io/" target="_blank">Alberto Ta
 
 ### Introduction
 <p align="justify">
-This work is based on our [arXiv tech report](), which is going to be submitted to [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) ... . We propose a graph convolution-based unit, dubbed Shrinking unit, that can be stacked vertically and horizontally for the design of CNN-like 3D point cloud feature extractors.
+This work is based on our [arXiv tech report](), which is going to be submitted to <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34">IEEE Transactions on Pattern Analysis and Machine Intelligence</a>. We propose a graph convolution-based unit, dubbed Shrinking unit, that can be stacked vertically and horizontally for the design of CNN-like 3D point cloud feature extractors.
 </p>
 <p align="justify">
 3D point clouds have attracted increasing attention in architecture, engineering, and construction due to their high- quality object representation and efficient acquisition methods. Consequently, many point cloud feature detection methods have been proposed in the literature to automate some workflows, such as their classification or part segmentation. Nevertheless, the performance of point cloud automated systems significantly lags below their image counterparts. While part of this failure stems from the irregularity, unstructuredness and disorder of point clouds, which makes the task of point cloud feature detection significantly more challenging than the image one, we argue that a lack of inspiration from the image domain might be the primary cause of such a gap. Indeed, given the overwhelming
