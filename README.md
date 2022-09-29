@@ -23,10 +23,15 @@ In this repository, we release the implementation code for the Shrinking unit as
 If you find our work useful in your research, please consider citing:
 
 	@article{tamajo2022shrinkingunit,
-	  title={Shrinking unit: a graph convolution-based unit for CNN-like 3D point cloud feature extractors},
-	  author={Tamajo, Alberto and Plaß, Bastian and Klauer, Thomas},
-	  year={2022}
-	}
+  	         doi = {10.48550/ARXIV.2209.12770},
+                 url = {https://arxiv.org/abs/2209.12770},
+                 author = {Tamajo, Alberto and Plaß, Bastian and Klauer, Thomas},
+                 keywords = {Computer Vision and Pattern Recognition (cs.CV), Machine Learning (cs.LG), FOS: Computer and information sciences, FOS: Computer and                                information sciences, I.2.10; I.5.2; I.5.4},
+                 title = {Shrinking unit: a Graph Convolution-Based Unit for CNN-like 3D Point Cloud Feature Extractors},
+                 publisher = {arXiv},
+		 year = {2022},
+                 copyright = {arXiv.org perpetual, non-exclusive license}
+		 }
 ### Installation
 We provide an environment.yml file containing a list of the necessary dependencies.
 Follow the following steps to reproduce the same environment in your machine:
