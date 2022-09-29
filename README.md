@@ -23,11 +23,11 @@ In this repository, we release the implementation code for the Shrinking unit as
 If you find our work useful in your research, please consider citing:
 
 	@article{tamajo2022shrinkingunit,
-  	         doi = {10.48550/ARXIV.2209.12770},
+		 doi = {10.48550/ARXIV.2209.12770},
                  url = {https://arxiv.org/abs/2209.12770},
                  author = {Tamajo, Alberto and Plaß, Bastian and Klauer, Thomas},
-                 keywords = {Computer Vision and Pattern Recognition (cs.CV), Machine Learning (cs.LG), FOS: Computer and information sciences, FOS: Computer and                                information sciences, I.2.10; I.5.2; I.5.4},
-                 title = {Shrinking unit: a Graph Convolution-Based Unit for CNN-like 3D Point Cloud Feature Extractors},
+                 keywords = {Computer Vision and Pattern Recognition (cs.CV), Machine Learning (cs.LG), FOS: Computer and information sciences, FOS: Computer and information sciences, I.2.10; I.5.2; I.5.4},
+		 title = {Shrinking unit: a Graph Convolution-Based Unit for CNN-like 3D Point Cloud Feature Extractors},
                  publisher = {arXiv},
 		 year = {2022},
                  copyright = {arXiv.org perpetual, non-exclusive license}
