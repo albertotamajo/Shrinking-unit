@@ -29,7 +29,7 @@ If you find our work useful in your research, please consider citing:
                  keywords = {Computer Vision and Pattern Recognition (cs.CV), Machine Learning (cs.LG), FOS: Computer and information sciences, FOS: Computer and                                information sciences, I.2.10; I.5.2; I.5.4},
                  title = {Shrinking unit: a Graph Convolution-Based Unit for CNN-like 3D Point Cloud Feature Extractors},
                  publisher = {arXiv},
-		year = {2022},
+		 year = {2022},
                  copyright = {arXiv.org perpetual, non-exclusive license}
 		 }
 ### Installation
